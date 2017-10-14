@@ -1,4 +1,4 @@
-/* */ 
+/* */
 "format cjs";
 /* global _ */
 (function () {
@@ -247,5 +247,5 @@
 	};
 
 	redirect();
-	getFile('learn.json', Learn);
+	//getFile('learn.json', Learn);
 })();
